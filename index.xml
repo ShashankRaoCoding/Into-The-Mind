@@ -6,17 +6,17 @@
       <description>Last 10 notes on ShanksMakesStuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Into The Mind</title>
+    <link>https://shanksmakesstuff.xyz/Into-The-Mind</link>
+    <guid>https://shanksmakesstuff.xyz/Into-The-Mind</guid>
+    <description>Synopsis: Prologue: The history of humanity is the history of ideas.</description>
+    <pubDate>Thu, 26 Jun 2025 17:20:52 GMT</pubDate>
+  </item><item>
     <title>index</title>
     <link>https://shanksmakesstuff.xyz/</link>
     <guid>https://shanksmakesstuff.xyz/</guid>
     <description> window.location.href = `shashankraocoding.github.io/Into-The-Mind/Into-The-Mind.html` .page-title { font-size: 1.70rem; } .</description>
     <pubDate>Sat, 14 Jun 2025 21:41:56 GMT</pubDate>
-  </item><item>
-    <title>Into The Mind</title>
-    <link>https://shanksmakesstuff.xyz/Into-The-Mind</link>
-    <guid>https://shanksmakesstuff.xyz/Into-The-Mind</guid>
-    <description>Prologue: The history of humanity is the history of conflicts, and the history of conflicts is the history of ideas.</description>
-    <pubDate>Sat, 14 Jun 2025 20:08:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
